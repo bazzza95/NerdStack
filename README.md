@@ -1,2 +1,2 @@
-# EE417GroupE
+# NerdStack
 EE417 -> Group Assignment
